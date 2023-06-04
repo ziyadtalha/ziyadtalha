@@ -1,10 +1,10 @@
-# Learning android app development in Kotlin. ฅ^•ﻌ•^ฅ
+### Learning android app development in Kotlin. ฅ^•ﻌ•^ฅ
 
-# Learning Rails for web development. /ᐠ-˕-マ
+### Learning Rails for web development. /ᐠ-˕-マ
 
-# Messing around in Blender. ᓚᘏᗢ
+### Messing around in Blender. ᓚᘏᗢ
 
-# Check out my [ArtStation]: https://ziyadt.artstation.com/ and my [LinkedIn]: https://www.linkedin.com/in/ziyad-talha-050033239/
+### Check out my [ArtStation]: https://ziyadt.artstation.com/ and my [LinkedIn]: https://www.linkedin.com/in/ziyad-talha-050033239/
 
 <!--
 **ziyadtalha/ziyadtalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
