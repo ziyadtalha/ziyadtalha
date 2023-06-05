@@ -4,7 +4,7 @@
 
 #### Messing around in Blender. ᓚᘏᗢ
 
-#### Check out my [ArtStation](https://ziyadt.artstation.com/) and my [LinkedIn](https://www.linkedin.com/in/ziyad-talha-050033239/).
+#### Check me out on [ArtStation](https://ziyadt.artstation.com/), [HashNode](https://ziyad-t.hashnode.dev/), and [LinkedIn](https://www.linkedin.com/in/ziyad-talha-050033239/).
 
 #### Plan to learn MERN stack for web development.
 
