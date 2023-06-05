@@ -6,6 +6,8 @@
 
 #### Check out my [ArtStation](https://ziyadt.artstation.com/) and my [LinkedIn](https://www.linkedin.com/in/ziyad-talha-050033239/).
 
+#### Plan to learn MERN stack for web development.
+
 <!--
 **ziyadtalha/ziyadtalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
