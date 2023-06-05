@@ -1,12 +1,10 @@
 #### Learning android app development in Kotlin. ฅ^•ﻌ•^ฅ
 
-#### Learning Rails for web development. /ᐠ-˕-マ
+#### Learning Rails and MERN for web development. /ᐠ-˕-マ
 
 #### Messing around in Blender. ᓚᘏᗢ
 
 #### Check me out on [ArtStation](https://ziyadt.artstation.com/), [HashNode](https://ziyad-t.hashnode.dev/), and [LinkedIn](https://www.linkedin.com/in/ziyad-talha-050033239/).
-
-#### Plan to learn MERN stack for web development.
 
 <!--
 **ziyadtalha/ziyadtalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
