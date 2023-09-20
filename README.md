@@ -4,8 +4,6 @@
 
 #### Messing around in Blender. ᓚᘏᗢ
 
-#### Check me out on [ArtStation](https://ziyadt.artstation.com/), [HashNode](https://ziyad-t.hashnode.dev/), and [LinkedIn](https://www.linkedin.com/in/ziyad-talha-050033239/).
-
 <!--
 **ziyadtalha/ziyadtalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
