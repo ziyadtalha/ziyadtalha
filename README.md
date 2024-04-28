@@ -5,9 +5,6 @@
 
 </div>
 
-
-<h3 align="left">🔥 Statistics:</h3>
-
 ###
 
 <div align="center">
